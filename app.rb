@@ -29,6 +29,6 @@ end
 # 1 change "My Website" into "barbe Shop"
 # 2 add pages --> /about, /visit, /contacts,
 # 3 switch "erb" to call-get info from relevant file
-# 4
+# 4 <script src="/vendor/jquery-3.5.1.min.js"></script>  latest verion by 16.06.2020
 # 5
 # 6 
